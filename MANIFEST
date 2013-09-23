@@ -1,0 +1,28 @@
+Changes
+lib/SPMR.pm
+lib/SPMR/LOG/Logforperl.pm
+lib/SPMR/FILE/MyFILE.pm
+lib/SPMR/COMMON/MyCOMMON.pm
+lib/SPMR/DBI/MyDBI.pm
+lib/SPMR/DBI/MyDBISqlite.pm
+lib/SPMR/DATE/MyDATE.pm
+lib/SPMR/NET/MyNET.pm
+lib/SPMR/NET/MyFTP.pm
+lib/SPMR/NET/MySocket.pm
+include inc/Module/AutoInstall.pm
+include inc/Module/Install.pm
+include inc/Module/Install/Base.pm
+include inc/Module/Install/Can.pm
+include inc/Module/Install/Fetch.pm
+include inc/Module/Install/Include.pm
+include inc/Module/Install/Makefile.pm
+include inc/Module/Install/Metadata.pm
+include inc/Module/Install/Win32.pm
+include inc/Module/Install/WriteAll.pm
+Makefile.PL
+MANIFEST
+README
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
